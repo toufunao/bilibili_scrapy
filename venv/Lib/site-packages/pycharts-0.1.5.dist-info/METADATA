@@ -1,0 +1,26 @@
+Metadata-Version: 2.0
+Name: pycharts
+Version: 0.1.5
+Summary: Client for the YCharts API
+Home-page: https://github.com/ycharts/pycharts
+Author: YCharts Engineering
+Author-email: support@ycharts.com
+License: MIT
+Keywords: development ycharts api rest restful
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Topic :: Internet :: WWW/HTTP
+
+UNKNOWN
+
+
